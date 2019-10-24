@@ -1,4 +1,4 @@
-- name: Ja Manage IAM users and groups
+- name: Manage IAM users and groups
   hosts: localhost
   vars_files:
     - 'vars/groups.yml'
